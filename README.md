@@ -1,3 +1,11 @@
+front-end stack
+react native
+tailwind
+
+back-end stack
+Express.js
+sqlite
+
 cd backend
 
 npm i 
