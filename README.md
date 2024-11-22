@@ -3,7 +3,8 @@ react native
 tailwind
 
 back-end stack =>
-Express.js
+Node.js
+Express
 sqlite
 
 cd backend
