@@ -1,8 +1,8 @@
-front-end stack
+front-end stack =>
 react native
 tailwind
 
-back-end stack
+back-end stack =>
 Express.js
 sqlite
 
